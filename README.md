@@ -2,6 +2,8 @@
 
 The goal of this project is to train an agent to control a double-jointed arm to target locations from Unity ML-Agents toolkit Bananas environment.
 
+![Trained agent](./docs/fast.gif)
+
 ### Environment:
 
 The environment consists 20 double-jointed arms which get a goal location at every timestep. Every timestep the arm stays within goal bounds agent receives a +1 reward. The goal of the agent is to follow the goal locations at every timestep and collect as many rewards as possible.
