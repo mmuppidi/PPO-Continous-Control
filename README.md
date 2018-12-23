@@ -24,7 +24,7 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 ### Training the agent
 
-In order to train the agent, open Report.ipynb and run all the cells. 
+In order to train the agent, open dist_ppo/Continous_Control.ipynb and run all the cells. 
 
 ### Run a trained agent
 
@@ -39,6 +39,12 @@ jupyter notebook
 ```
 
 A webpage will be opened on your browser, click on Report.ipynb, which opens a new page. From here you should be able to run a cell or run everything at once.
+
+#### Requirments
+
+Packages necessary for this project.
+
+``` pip install -r requirements.txt```
 
 
 #### References

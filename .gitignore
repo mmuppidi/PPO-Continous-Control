@@ -1,0 +1,14 @@
+
+\.DS_Store
+
+\.ipynb_checkpoints/
+
+\.vscode/
+
+ppo_single/
+
+logs/
+
+Reacher.app/
+
+__pycache__/
